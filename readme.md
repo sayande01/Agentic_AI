@@ -1,4 +1,4 @@
-# AGentic AI - **Generative AI Solutions for Real-World Problems**
+# Agentic AI - **Generative AI Solutions for Real-World Problems**
 
 Welcome to the AGentic AI repository! 🚀 This repository serves as a collection of cutting-edge code and projects designed for building AI-driven applications, specifically focusing on Large Language Models (LLMs) and advanced AI architectures. The primary goal is to explore and create scalable solutions for real-world challenges using state-of-the-art tools like **Langchain**, **Langgraph**, **Autogen**, and other emerging concepts.
 
